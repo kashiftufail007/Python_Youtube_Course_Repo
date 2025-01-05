@@ -1,0 +1,9 @@
+[2025-01-04 09:15:23] INFO - Application started successfully.  
+[2025-01-04 09:16:10] DEBUG - User login detected. User: admin  
+[2025-01-04 09:17:45] WARNING - Disk space running low. Available: 5GB  
+[2025-01-04 09:18:12] ERROR - Failed to open config file: config.yaml  
+[2025-01-04 09:20:05] INFO - Executing scheduled task: python script.py  
+[2025-01-04 09:20:07] DEBUG - python_script.py completed successfully.  
+[2025-01-04 09:21:30] INFO - Backup process initiated.  
+[2025-01-04 09:22:15] CRITICAL - Backup failed: Insufficient permissions.  
+[2025-01-04 09:25:00] INFO - Application shutdown initiated.  
